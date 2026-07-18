@@ -1,0 +1,357 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607024
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337633011
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338132740
+      }
+    ],
+    "2.1 Write the Storage module inside the IIFE in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607059
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337619350
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338217430
+      }
+    ],
+    "3.1 Write the ThemeManager module in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607082
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338139896
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338223895
+      }
+    ],
+    "4.1 Write the GreetingWidget module in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607130
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338230612
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338488816
+      }
+    ],
+    "5.1 Write the FocusTimer module in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607150
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338238649
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338495101
+      }
+    ],
+    "6. Checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607174
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338550199
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338647647
+      }
+    ],
+    "7.1 Write the `_sortTasks(tasks, criterion)` pure function in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607194
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338244456
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338501513
+      }
+    ],
+    "7.3 Write the TodoManager module in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607214
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338668861
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338795614
+      }
+    ],
+    "8.1 Write the QuickLinks module in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607233
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338675849
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338801893
+      }
+    ],
+    "9.1 Add the IIFE init block that calls all modules in order": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607257
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338808647
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338860456
+      }
+    ],
+    "10. Checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607277
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338868332
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339225421
+      }
+    ],
+    "11.1 Write CSS custom properties and theming foundation": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607297
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339232978
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339332830
+      }
+    ],
+    "11.2 Write layout and widget base styles": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607344
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339338902
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339421216
+      }
+    ],
+    "11.3 Write widget-specific styles": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607364
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339428638
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339549906
+      }
+    ],
+    "11.4 Write responsive breakpoints and transitions": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607384
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339436052
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339556582
+      }
+    ],
+    "12.1 Add smoke test assertions as automated `console.assert` checks in `js/tests.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607407
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339566718
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339707847
+      }
+    ],
+    "13. Final checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784337607431
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339715464
+      },
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339842844
+      }
+    ],
+    "2. Implement the Storage module": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338217478
+      }
+    ],
+    "3. Implement ThemeManager": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338223923
+      }
+    ],
+    "4. Implement GreetingWidget": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338488847
+      }
+    ],
+    "5. Implement FocusTimer": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338495132
+      }
+    ],
+    "7. Implement TodoManager": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338795638
+      }
+    ],
+    "8. Implement QuickLinks": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338801920
+      }
+    ],
+    "9. Wire initialization sequence in `js/app.js`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784338860499
+      }
+    ],
+    "11. Implement CSS styling in `css/style.css`": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339556620
+      }
+    ],
+    "12. Cross-browser smoke test checklist in code": [
+      {
+        "executionId": "e324f18f-0bf8-4dfa-95ba-687638bdaf56",
+        "chatSessionId": "sess_55d2aebf-7030-495f-a48d-97284f94f304",
+        "timestamp": 1784339707871
+      }
+    ]
+  }
+}
