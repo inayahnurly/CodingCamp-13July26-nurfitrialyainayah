@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Life Dashboard</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+  </header>
+
+  <main class="dashboard">
+    <!-- Greeting Widget -->
+    <section id="greeting" class="widget greeting-widget">
+      <div id="greeting-time"></div>
+      <div id="greeting-date"></div>
+      <div id="greeting-text"></div>
+      <input id="greeting-name" type="text" placeholder="Enter your name" />
+    </section>
+
+    <!-- Focus Timer -->
+    <section id="focus-timer" class="widget timer-widget">
+      <div id="timer-display">25:00</div>
+      <button id="timer-start">Start</button>
+      <button id="timer-stop" disabled>Stop</button>
+      <button id="timer-reset">Reset</button>
+    </section>
+
+    <!-- To-Do List -->
+    <section id="todo" class="widget todo-widget">
+      <div class="todo-input-row">
+        <input id="todo-input" type="text" placeholder="Add a task..." />
+        <button id="todo-add">Add</button>
+      </div>
+      <div class="todo-sort-row">
+        <select id="todo-sort">
+          <option value="default">Default</option>
+          <option value="alpha">Alphabetical</option>
+          <option value="completed-last">Completed Last</option>
+        </select>
+      </div>
+      <ul id="todo-list"></ul>
+    </section>
+
+    <!-- Quick Links -->
+    <section id="quick-links" class="widget links-widget">
+      <div id="links-list"></div>
+      <div class="link-input-row">
+        <input id="link-label" type="text" placeholder="Label" />
+        <input id="link-url"   type="url"  placeholder="https://..." />
+        <button id="link-add">Add Link</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
