@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Life Dashboard — Tests</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- Minimal DOM stubs so app.js modules can init without errors -->
+  <button id="theme-toggle"></button>
+  <div id="greeting-time"></div>
+  <div id="greeting-date"></div>
+  <div id="greeting-text"></div>
+  <input id="greeting-name" />
+  <div id="timer-display">25:00</div>
+  <button id="timer-start"></button>
+  <button id="timer-stop" disabled></button>
+  <button id="timer-reset"></button>
+  <input id="todo-input" />
+  <button id="todo-add"></button>
+  <select id="todo-sort">
+    <option value="default">Default</option>
+    <option value="alpha">Alphabetical</option>
+    <option value="completed-last">Completed Last</option>
+  </select>
+  <ul id="todo-list"></ul>
+  <div id="links-list"></div>
+  <input id="link-label" />
+  <input id="link-url" />
+  <button id="link-add"></button>
+
+  <!-- Load fast-check via CDN for property-based tests -->
+  <script src="https://cdn.jsdelivr.net/npm/fast-check@3.22.0/lib/bundle/fast-check.min.js"></script>
+
+  <!-- Load the app first so _testExports is available -->
+  <script src="js/app.js"></script>
+
+  <!-- Load the test suite -->
+  <script src="js/tests.js"></script>
+</body>
+</html>
